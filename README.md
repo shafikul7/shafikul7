@@ -37,9 +37,8 @@
 
 <img width="550" alt="shafikulislan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Shafikul-islam1&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikul-islam1&card_width=550)](https://github.com/Shafikul-islam1/Shafikul-islam1)
 
-[programming]: https://www.programming-hero.com/
 [website]: https://github.com/Shafikul-islam1/
 [twitter]: https://github.com/Shafikul-islam1/
 [youtube]:  https://github.com/Shafikul-islam1/
