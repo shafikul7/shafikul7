@@ -9,7 +9,6 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdshafikul-islam/) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shafikulislan/)  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/engineer.shafikul) 
 
-
 <br />
 
 ### Languages and Tools:
@@ -37,9 +36,9 @@
 
 <img width="550" alt="shafikulislan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Shafikul-islam1&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikul-islam1&card_width=550)](https://github.com/Shafikul-islam1/Shafikul-islam1)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikul-islam1&card_width=550)](https://shafikul.dev/)
 
-[website]: https://github.com/Shafikul-islam1/
+[website]: https://shafikul.dev/
 [twitter]: https://github.com/Shafikul-islam1/
 [youtube]:  https://github.com/Shafikul-islam1/
 [instagram]: https://www.instagram.com/shafikulislan/
