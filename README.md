@@ -1,7 +1,7 @@
 ### Hi there, I'm Shafikul👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working Front-End Developers
+- 🔭 I’m currently working ## Front-End Developers
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn TypeScript, Next.js, React, Nodejs 😍
 
