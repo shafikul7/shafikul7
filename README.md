@@ -2,9 +2,10 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working  Front-End Developers
+- 👨‍💻 My portfolio website [https://shafikul.dev](https://shafikul.dev)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn TypeScript, Next.js, React, Nodejs 😍
-- 📫 How to reach me ... shafikul1170@gmail.com / https://shafikul.dev/
+- 📫 How to reach me ... shafikul1170@gmail.com / +8801746711170/
 
 ### Connect with me:
 
