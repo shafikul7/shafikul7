@@ -34,9 +34,9 @@
 <br />
 <br />
 
-<img width="550" alt="shafikulislan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Shafikul-islam1&show_icons=true"/>
+<img width="400" alt="shafikulislan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Shafikul-islam1&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikul-islam1&card_width=550)](https://shafikul.dev/)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikul-islam1&card_width=400)](https://shafikul.dev/)
 
 [website]: https://shafikul.dev/
 [twitter]: https://github.com/Shafikul-islam1/
