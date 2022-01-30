@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn TypeScript, Next.js, Reduxjs, Nodejs 😍
 - ⚡ Fun fact: I love coding and watch movies
-- 📫 How to reach me ...shafikul1170@gmail.com 
+- 📫 How to reach me  shafikul1170@gmail.com 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdshafikul-islam/) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shafikulislan/)  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/engineer.shafikul)
