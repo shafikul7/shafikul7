@@ -4,7 +4,7 @@
 - 🔭 I’m currently working  Front-End Developers
 - 👨‍💻 My portfolio website [https://shafikul.dev](https://shafikul.dev)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn TypeScript, Next.js, Reduxjs, Nodejs 😍
+- 🥅 2022 Goals: Learn TypeScript,Testing,Micro-Frontend Architecture,Design Patterns  😍
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 How to reach me  shafikul1170@gmail.com 
 ### Connect with me:
