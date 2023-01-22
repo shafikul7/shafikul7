@@ -48,8 +48,5 @@
 [cssplaylist]: https://github.com/mdshafikulislam/
 [reactplaylist]: https://github.com/mdshafikulislam/
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-</div>
 
 
