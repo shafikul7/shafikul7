@@ -42,7 +42,7 @@
 [twitter]: https://github.com/mdshafikulislam/
 [youtube]:  https://github.com/mdshafikulislam/
 [instagram]: https://www.instagram.com/shafikulislan/
-[linkedin]:https://www.linkedin.com/in/mdshafikul-islam/
+[linkedin]:https://www.linkedin.com/in/shafikul7/
 [webdevplaylist]: https://github.com/Shafikul-islam1/
 [jsplaylist]: https://github.com/mdshafikulislam/
 [cssplaylist]: https://github.com/mdshafikulislam/
