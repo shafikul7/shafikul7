@@ -34,19 +34,19 @@
 <br />
 <br />
 
-<img width="550" alt="shafikulislan Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdshafikulislam&show_icons=true"/>
+<img width="550" alt="shafikulislan Github Stats" src="https://github-readme-stats.vercel.app/api?username=shafikul7&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshafikulislam&card_width=550)](https://shafikul.dev/)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shafikul7&card_width=550)](https://shafikul.dev/)
 
 [website]: https://shafikul.dev/
-[twitter]: https://github.com/mdshafikulislam/
-[youtube]:  https://github.com/mdshafikulislam/
+[twitter]: https://github.com/shafikul7/
+[youtube]:  https://github.com/shafikul7/
 [instagram]: https://www.instagram.com/shafikulislan/
 [linkedin]:https://www.linkedin.com/in/shafikul7/
-[webdevplaylist]: https://github.com/Shafikul-islam1/
-[jsplaylist]: https://github.com/mdshafikulislam/
-[cssplaylist]: https://github.com/mdshafikulislam/
-[reactplaylist]: https://github.com/mdshafikulislam/
+[webdevplaylist]: https://github.com/shafikul7/
+[jsplaylist]: https://github.com/shafikul7/
+[cssplaylist]: https://github.com/shafikul7/
+[reactplaylist]: https://github.com/shafikul7/
 
 
 
