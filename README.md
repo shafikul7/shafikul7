@@ -1,10 +1,10 @@
 ### Hi there, I'm Shafikul👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!!!
-- 🔭 I’m currently working  FrontEnd Developers
+- 🔭 I’m currently working  Front-end Developers
 - 👨‍💻 My portfolio website [https://shafikul.dev](https://shafikul.dev)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn Testing, Micro-Frontend Architecture, Design Patterns, CI/CD, SDLC, Agile  😍
+- 🥅 2024 Goals: Learn Testing, Micro-Frontend Architecture, Design Patterns, CI/CD, SDLC, Agile  😍
 - ⚡ Fun fact: I love coding and watch movies
 - 📫 How to reach me  shafikul1170@gmail.com 
 ### Connect with me:
