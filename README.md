@@ -1,7 +1,7 @@
-### Hi there, I'm Shafikul👋
+### Hi there, I'm Shafikul Islam👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!!!
-- 🔭 I’m currently working  Front-end Developers
+- 🔭 I’m currently working  with Front-end Developer
 - 👨‍💻 My portfolio website [https://shafikul.dev](https://shafikul.dev)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Learn Testing, Micro-Frontend Architecture, Design Patterns, CI/CD, SDLC, Agile  😍
