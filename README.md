@@ -1,6 +1,6 @@
 ### Hi there, I'm Shafikul Islam👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!!!
+## I'm a 😍😍 JavaScript Lover 😍😍!!!!
 - 🔭 I’m currently working  with Front-end Developer
 - 👨‍💻 My portfolio website [https://shafikul.dev](https://shafikul.dev)
 - 🌱 I’m currently learning everything 🤣
