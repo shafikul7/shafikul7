@@ -48,5 +48,9 @@
 [cssplaylist]: https://github.com/shafikul7/
 [reactplaylist]: https://github.com/shafikul7/
 
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="hamzazahid.com" width="40%" src="https://profile-counter.glitch.me/hamzazahidulislam/count.svg" />
+</p>
 
 
