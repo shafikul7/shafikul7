@@ -1,4 +1,4 @@
-### Hi there, I'm Md.Shafikul Islam
+### Hi there, I'm Md Shafikul islam
 
 ## I'm a 😍😍 JavaScript Lover 😍😍
 - 🔭 I’m currently working  as a Front-end Developer
