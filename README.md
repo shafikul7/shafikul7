@@ -34,17 +34,18 @@
 <br />
 <br />
 
-<b>&#128200; Leetcode</b>
-
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/jonecoder?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/JoneCoder/cf-stats/main/output/light_card.svg" />
-</p>
 
 
 <img width="550" alt="shafikulislan Github Stats" src="https://github-readme-stats.vercel.app/api?username=shafikul7&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shafikul7&card_width=550)](https://shafikul.dev/)
+
+<b>&#128200; Leetcode</b>
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/shafikul1170?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/shafikul1170/cf-stats/main/output/light_card.svg" />
+</p>
 
 [website]: https://shafikul.dev/
 [twitter]: https://github.com/shafikul7/
@@ -56,9 +57,5 @@
 [cssplaylist]: https://github.com/shafikul7/
 [reactplaylist]: https://github.com/shafikul7/
 
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="hamzazahid.com" width="40%" src="https://profile-counter.glitch.me/hamzazahidulislam/count.svg" />
-</p>
 
 
