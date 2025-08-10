@@ -34,18 +34,13 @@
 <br />
 <br />
 
-<b>&#128200; Competitive Programming</b>
+<b>&#128200; Leetcode</b>
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/jonecoder?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/JoneCoder/cf-stats/main/output/light_card.svg" />
 </p>
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jonecoder/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jonecoder/0" alt="Latest medium article"> </a>
 
 <img width="550" alt="shafikulislan Github Stats" src="https://github-readme-stats.vercel.app/api?username=shafikul7&show_icons=true"/>
 
